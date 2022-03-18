@@ -8,8 +8,8 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://bitbucket.org/owshq/big-data-on-k8s.git'
-    path: repository/yamls/ingestion/connectors/
+    repoURL: 'https://github.com/alfredoprates/k8s.git'
+    path: tree/repository/yamls/ingestion/connectors/
     targetRevision: HEAD
     directory:
       recurse: true

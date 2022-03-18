@@ -9,7 +9,7 @@ spec:
   project: default
   source:
     repoURL: 'https://github.com/alfredoprates/k8s.git'
-    path: tree/repository/helm-charts/yugabyte
+    path: repository/helm-charts/yugabyte
     targetRevision: HEAD
     helm:
       valueFiles:
